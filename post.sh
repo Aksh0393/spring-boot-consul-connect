@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:6969/v1/value?name=testUser&marks=12"
